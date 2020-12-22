@@ -5,7 +5,7 @@
  * @LastEditTime: 2020-12-21 00:19:27
  * @FilePath: \undefinede:\source\translink\translink.github.io\README.md
 -->
-[HOME](http://trans.link/)     |     [VirtualKVM](https://github.com/TransLink/virtual_kvm_doc)
+[Store](http://store.trans.link/)     |     [VirtualKVM](https://github.com/TransLink/virtual_kvm_doc)
 
 
 <div align=center><img width = '800' height ='150' src ="./imgs/Trans.Link.svg"/></div>
